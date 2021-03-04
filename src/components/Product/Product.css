@@ -1,7 +1,7 @@
 .product{
     display: flex;
     border-bottom: 1px solid gray;
-    margin: 0 10px 5px 0;
+    margin: 5px 10px 5px 0;
    padding-right: 5px;
 }
 .name-div{
@@ -16,5 +16,6 @@
     background-color: rgb(231, 208, 0);
     border: none;
     border: 1px solid black;
-    padding:5px 20px
+    padding:5px 20px;
+    cursor:pointer;
 }
